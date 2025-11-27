@@ -1,0 +1,138 @@
+{
+  "F 229": {
+    "sessions": [
+      {
+        "id": "1764202452241-k2ig4evgsh8",
+        "date": "2025-11-27T00:14:12.241Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202455952-r3mjjkoie6f",
+        "date": "2025-11-27T00:14:15.952Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202456376-eo3jpq7815m",
+        "date": "2025-11-27T00:14:16.376Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202459456-8mvgni1r4we",
+        "date": "2025-11-27T00:14:19.456Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202461576-eie51joohgv",
+        "date": "2025-11-27T00:14:21.576Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202462097-cf8sjuc6o95",
+        "date": "2025-11-27T00:14:22.097Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202462464-smyx6tj6c2b",
+        "date": "2025-11-27T00:14:22.464Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202462840-we3t7zpsa5",
+        "date": "2025-11-27T00:14:22.840Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202463224-l85xchzt2e",
+        "date": "2025-11-27T00:14:23.224Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202463562-s626fbgu9ok",
+        "date": "2025-11-27T00:14:23.562Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202463817-3zjt30h6i52",
+        "date": "2025-11-27T00:14:23.817Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202464096-4y0bzsnnxoj",
+        "date": "2025-11-27T00:14:24.096Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202464296-7nnh4voep66",
+        "date": "2025-11-27T00:14:24.296Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202464514-4x9cqxntcz",
+        "date": "2025-11-27T00:14:24.514Z",
+        "status": "absent"
+      },
+      {
+        "id": "1764202468305-t2sfozm8vir",
+        "date": "2025-11-27T00:14:28.305Z",
+        "status": "absent"
+      }
+    ],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC558": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC833": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC030": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC020": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC621": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC646": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC658": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC721": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC821": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC851": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  },
+  "MC853": {
+    "sessions": [],
+    "requiresAttendance": true,
+    "alertEnabled": true
+  }
+}
